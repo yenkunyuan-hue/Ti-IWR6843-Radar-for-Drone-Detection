@@ -17,6 +17,12 @@ bachelor or high school student who is interested in AI's implementation and Ard
 <br>Chapter 4,5,6 are strongly recommended to read if you are the beginner
 <br>Keyword to report: Arduino's CPU, Memory Straucture, PWM, ADC, DAC; Ti radar's FMCW, TLV data structure
 
+## Python Environment: 
+Interpreter: Python 3.8
+<br>ultralytics==8.4.37
+<br>pyserial==3.5
+<br>scikit-learn==1.3.2
+
 ## Device List: 
 Ti IWR6843AOPEVM - can change to other radar, need to edit radar.py if the format is insame 
 <br>HC-SR04 Ultrasonic Sensor
@@ -25,6 +31,7 @@ Ti IWR6843AOPEVM - can change to other radar, need to edit radar.py if the forma
 <br>L298N Motor Driver - NECESSARY if you don't want to burn your Arduino
 <br>Common Anoder RGB LED - Cathode is okay too, but you need to change AnalogWrite in LED_show() in Arduino.ino
 <br>Light Dependent Resistor
+<br>Jetson Nano - Raspaberry Pi is okay too
 
 ## Testing Performance: 
 NOTE: Distance here is Horizontal Distance, Vertical Distacne is varying
