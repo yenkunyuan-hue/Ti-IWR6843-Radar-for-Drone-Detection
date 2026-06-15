@@ -1,5 +1,5 @@
 # Drone Detection
-<video src="./example.mp4" controls="controls" width="100%">
+<video src="https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/example.mp4" controls="controls" width="100%">
 </video>
 
 ## Aalborg Univeristy, AIE-2 project
@@ -14,7 +14,7 @@ Interpreter: Python 3.8
 <br>pyserial==3.5
 <br>scikit-learn==1.3.2
 
-## Keyword
+## Keyword:
 Ti IWR6843AOPEVM
 <br>Yolov8 Model Implementation
 <br>Arduino's Junior Project
@@ -43,7 +43,7 @@ NOTE: Distance here is Horizontal Distance, Vertical Distacne is varying
 <br>![set_3](./290cm-test.png)
 <br>![set_4](./330cm-test.png)
 
-## 3D printing
+## 3D Printing
 
-## If question
+## If Question:
 feel free to contact me, Yang, (fy14pi@student.aau.dk)
