@@ -1,11 +1,7 @@
-# Drone Detection
-<video src="https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/raw/main/example.mp4" controls="controls" width="100%">
-</video>
-
-## Aalborg Univeristy, AIE-2 project
+# Aalborg Univeristy, AIE-2 project
 THANK YOU to Christian Mai and Fredrik F. Sørensen, for their guidance throughout this project.
 <br>THANK YOU to [Yash](https://github.com/yashlancers/mm_Wave_Radar_IWR6843AOPEVM), his IWR code is the initial version of radar.py
-<br>THANK YOU to [Alireza0K](https://github.com/Alireza0K/Unmanned-Aerial-Vehicle) for his open-sourced yolo-v8 detection model\
+<br>THANK YOU to [Alireza0K](https://github.com/Alireza0K/Unmanned-Aerial-Vehicle) for his open-sourced yolo-v8 detection model
 <br>Author: Yang Kunyuan(me), Maté Papp, Douglas Takle
 
 ## Python Environment: 
@@ -19,6 +15,14 @@ Ti IWR6843AOPEVM
 <br>Yolov8 Model Implementation
 <br>Arduino's Junior Project
 <br>Drone Detection
+
+## Project Introduction:
+Working Video:
+<br>https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/raw/main/example.mp4
+<br>This prototype is used for UAV detection, clour in LED means:
+<br>Green - Detected
+<br>Red - Python is crashed
+<br>Blue - No Detection
 
 ## Target User: 
 bachelor or high school student who is interested in AI's implementation and Arduino
