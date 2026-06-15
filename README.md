@@ -6,8 +6,9 @@
 ## Aalborg Univeristy, AIE-2 project
 THANK YOU to Christian Mai and Fredrik F. Sørensen, for their guidance throughout this project.
 <br>THANK YOU to [Yash](https://github.com/yashlancers/mm_Wave_Radar_IWR6843AOPEVM), his IWR code is the initial version of radar.py
-<br> THANK YOU to [Alireza0K](https://github.com/Alireza0K/Unmanned-Aerial-Vehicle) for his open-sourced yolo-v8 detection model
+<br>THANK YOU to [Alireza0K](https://github.com/Alireza0K/Unmanned-Aerial-Vehicle) for his open-sourced yolo-v8 detection model
 <br>Keyword: Ti IWR6843AOP radar; Yolov8 Model; Arduino's Junior Project
+<br>Author: Yang Kunyuan(me), Maté Papp, Douglas Takle
 
 ## Target User: 
 bachelor or high school student who is interested in AI's implementation and Arduino
