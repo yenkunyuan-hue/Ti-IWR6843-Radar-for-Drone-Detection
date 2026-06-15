@@ -1,5 +1,5 @@
 # Drone Detection
-<video src="https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/example.mp4" controls="controls" width="100%">
+<video src="https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/raw/main/example.mp4" controls="controls" width="100%">
 </video>
 
 ## Aalborg Univeristy, AIE-2 project
