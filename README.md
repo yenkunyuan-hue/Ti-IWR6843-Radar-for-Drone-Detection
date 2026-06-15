@@ -6,8 +6,7 @@
 ## Aalborg Univeristy, AIE-2 project
 THANK YOU to Christian Mai and Fredrik F. Sørensen, for their guidance throughout this project.
 <br>THANK YOU to [Yash](https://github.com/yashlancers/mm_Wave_Radar_IWR6843AOPEVM), his IWR code is the initial version of radar.py
-<br>THANK YOU to [Alireza0K](https://github.com/Alireza0K/Unmanned-Aerial-Vehicle) for his open-sourced yolo-v8 detection model
-<br>Keyword: Ti IWR6843AOP radar; Yolov8 Model; Arduino's Junior Project
+<br>THANK YOU to [Alireza0K](https://github.com/Alireza0K/Unmanned-Aerial-Vehicle) for his open-sourced yolo-v8 detection model\
 <br>Author: Yang Kunyuan(me), Maté Papp, Douglas Takle
 
 ## Python Environment: 
@@ -16,12 +15,17 @@ Interpreter: Python 3.8
 <br>pyserial==3.5
 <br>scikit-learn==1.3.2
 
+## Keyword
+Ti IWR6843AOPEVM
+<br>Yolov8 Model Implementation
+<br>Arduino's Junior Project
+<br>Drone Detection
+
 ## Target User: 
 bachelor or high school student who is interested in AI's implementation and Arduino
 <br>WE PROVIDE A DETAILED EXPLAINATION FOR EACH COMPONENT:
 <br>https://www.overleaf.com/read/yjyrxjvpsxby#cf75ce
-<br>Chapter 4,5,6 are strongly recommended to read if you are the beginner
-<br>Keyword to report: Arduino's CPU, Memory Straucture, PWM, ADC, DAC; Ti radar's FMCW, TLV data structure
+<br>Chapter 4,5,6 are STRONGLY RECOMMENDED to read if you are the beginner
 
 ## Device List: 
 Ti IWR6843AOPEVM - can change to other radar, need to edit radar.py if the format is insame 
