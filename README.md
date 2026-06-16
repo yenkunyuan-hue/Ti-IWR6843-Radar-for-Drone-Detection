@@ -47,7 +47,9 @@ NOTE: Distance here is Horizontal Distance, Vertical Distacne is varying
 <br>![set_3](./290cm-test.png)
 <br>![set_4](./330cm-test.png)
 
-## 3D Printing
+## 3D Printing:
+Two format of 3D printing files are provided;
+[STL](https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/Radar.stl) and [f3d](https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/Radar.f3d)
 
 ## If Question:
 feel free to contact me, Yang, (fy14pi@student.aau.dk)
