@@ -9,6 +9,10 @@ Interpreter: Python 3.8
 <br>ultralytics==8.4.37
 <br>pyserial==3.5
 <br>scikit-learn==1.3.2
+<br>yolo model's [weighted file](https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/Model.pt)
+<br>radar's [configuration file](https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/config_file.cfg), come from [website](https://dev.ti.com/gallery/view/mmwave/mmWave_Demo_Visualizer/ver/3.6.0/)
+<br>SDK==3.6
+<br>platform==xWR68xx_AOP
 
 ## Keyword:
 Ti IWR6843AOPEVM
