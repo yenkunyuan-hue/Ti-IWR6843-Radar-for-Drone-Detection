@@ -55,5 +55,9 @@ NOTE: Distance here is Horizontal Distance, Vertical Distacne is varying
 Two format of 3D printing files are provided;
 [STL](https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/Radar.stl) and [f3d](https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/Radar.f3d)
 
+## Possible Improvement:
+KNN is a better algorithm than OPTICS in processing the point cloud
+However, KNN is a supervised learning - you need to collect a training set for a specific device
+
 ## If Question:
 feel free to contact me, Yang, (fy14pi@student.aau.dk)
