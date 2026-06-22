@@ -56,7 +56,7 @@ Two format of 3D printing files are provided;
 [STL](https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/Radar.stl) and [f3d](https://github.com/yenkunyuan-hue/Ti-IWR6843-Radar-for-Drone-Detection/blob/main/Radar.f3d)
 
 ## Possible Improvement:
-<br>KNN is a better algorithm than OPTICS in processing the point cloud
+KNN is a better algorithm than OPTICS in processing the point cloud
 <br>However, KNN is a supervised learning - you need to collect a training set for a specific device
 <br>if you are interested in, try!
 <br>Note: KNN is old-fashioned, but a very good practise for beginners to understand Machine Learning
